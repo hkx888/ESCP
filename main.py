@@ -7,3 +7,5 @@ if __name__ == '__main__':
     sac = SAC()
     sac.logger.log(sac.logger.parameter)
     sac.run()
+    #this is a comment
+    print("this is a comment")
